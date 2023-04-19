@@ -1,0 +1,5 @@
+- originally authored for TTR by madelyn, phil
+- ported to TTCC by ian
+- some assets re-used from dip
+
+enjoy :)
