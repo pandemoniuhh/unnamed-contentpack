@@ -1,5 +1,20 @@
 - originally authored for TTR by madelyn, phil
 - ported to TTCC by ian
-- some assets re-used from dip
-- shoutouts to kenny
+
+- textures sourced (in no order):
+- http://wildtextures.com
+- http://texturelib.com
+- http://pixels.com / http://fineartamerica.com
+- shutterstock / dreamstime / istock / adobe stock / 123rf (no watermarks :D)
+- filter forge
+- deviantart.com
+- http://mapdb.obsidianconflict.net/printer--friendly//texture:the-big-one-textures-set
+- DIP content pack
+- https://www.flickr.com/photos/tahini/4048787958/in/photostream/
+
+
+
+
+
+- shoutouts to llRioTll
 enjoy :)
