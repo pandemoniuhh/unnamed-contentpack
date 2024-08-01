@@ -1,5 +1,6 @@
+@echo off
 title PNG Cleaner
-@ECHO OFF
+@echo off
 
 :confirm
 set /P c=Confirm image conversion? [Y/N] 
