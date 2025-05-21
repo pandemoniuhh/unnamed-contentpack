@@ -28,6 +28,8 @@ exit /b
 )
 
 :compile
+rem I would prefer not to waste disk cycles as much as possible in case of misclicks
+pause
 multify -c -f %multifile_name%%ext% phase_*
 
 :distribute
