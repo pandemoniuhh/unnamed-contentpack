@@ -33,9 +33,9 @@ pause
 multify -c -f %multifile_name%%ext% phase_*
 
 :distribute
-if %wantDistributionPayload% == "true" (
-set /P "appendPrompt=Compile multifile for distribution? [Y/any for N]"
-if "%appendPrompt%" == "y" (
+if %wantDistributionPayload% == true (
+set /P "appendPrompt=Compile multifile for distribution? [Y/n]"
+if !appendPrompt! == y (
 echo commit ID = !commit!
 ren "%compiled_multifile%" "!appended_mf!"
 echo Commit ID appended and is now ready for distribution.
