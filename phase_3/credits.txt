@@ -14,9 +14,10 @@
 - http://scmapdb.wikidot.com/wad:tp-egypt-1
 - portal 1 / portal 2
 - https://mmshop.ocnk.net/product/620
+- Counter-Strike: Global Offensive (extracted textures)
 
+- Various audio and background music is sourced from games such as Counter-Strike: Global Offensive (Valve Studio Orchestra), Titanfall 1 and 2, Apex Legends (Respawn, Stephen Barton), Battlefield 4 (DICE, Johan Skugge, Jukka Rintamäki), DOOM (iD, Mick Gordon) Dimrain47, etc.
 
-
-- special thanks to loonatic for providing technical assistance
-- shoutouts to xriott
-enjoy :)
+- Special thanks to loonatic for providing technical assistance
+- Shoutouts to xriott
+Enjoy :)
