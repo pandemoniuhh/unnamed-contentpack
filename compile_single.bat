@@ -11,7 +11,7 @@ set "directory=%localappdata%\Corporate Clash\resources\contentpacks\"
 echo File created: "%filename%"
 echo Destination: "%directory%"
 
-set /p MOVE_CHOICE= Move this file to the contentpacks folder? (Y/any key for N)
+set /p MOVE_CHOICE= Move this file to the contentpacks folder? (Y/any key for N) 
 
 If /I "%MOVE_CHOICE%" == "y" (
 move "%filename%" "%directory%" ) else ( 
