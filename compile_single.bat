@@ -14,7 +14,10 @@ echo Destination: "%directory%"
 set /p MOVE_CHOICE= Move this file to the contentpacks folder? (Y/any key for N) 
 
 If /I "%MOVE_CHOICE%" == "y" (
-move "%filename%" "%directory%" ) else ( 
+move "%filename%" "%directory%"
+echo File moved, have a nice day
+@echo off
+@timeout /t 3 >nul ) else ( 
 echo Have a nice day
 @echo off
 @timeout /t 3 >nul )
