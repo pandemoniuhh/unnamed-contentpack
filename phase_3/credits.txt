@@ -22,7 +22,8 @@
   Counter-Strike: Global Offensive (Valve Studio Orchestra), 3kliksphilip, 
   Titanfall 1 and 2, Apex Legends (Respawn, Stephen Barton), 
   Battlefield 4 (DICE, Johan Skugge, Jukka Rintamäki),
-  Battlefield 6 (DICE), 
+  Battlefield 6 (DICE),
+  Halo 3, ODST, Reach (Bungie, Martin O'Donnell, Michael Salvatori), 
   DOOM (iD, Mick Gordon), Dimrain47, etc.
 
 - Special thanks to loonatic for providing technical assistance
