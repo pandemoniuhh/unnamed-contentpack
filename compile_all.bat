@@ -2,6 +2,9 @@
 setlocal EnableDelayedExpansion
 set /P wantDistributionPayload=<wantDistributionPayload
 
+rem If your Panda3D\bin directory is somewhere else, change the line below:
+set multify_path="C:\Panda3D-TTRMDev-1.11.0-x64\bin\"
+
 echo Nai's Ultra Convenient Content Pack and Distribution Batch Script
 echo ------------------------------------------------------------------------
 
@@ -30,7 +33,7 @@ exit /b
 :compile
 rem I would prefer not to waste disk cycles as much as possible in case of misclicks
 pause
-multify -c -f %multifile_name%%ext% phase_*
+%multify_path%multify -c -f %multifile_name%%ext% phase_*
 
 :distribute
 if %wantDistributionPayload% == true (
@@ -60,5 +63,3 @@ rem move !appended_mf! "%game_destination%"
 rem echo All done!
 rem pause
 
-rem If this batch program looks like it was made with the help of ChatGPT, 
-rem it's because it was. Mainly the git commit shit
